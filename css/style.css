@@ -103,8 +103,11 @@ box-sizing: border-box;
 .driver{
     width: 80px;
     position: absolute;
-    left: 720px;
+    left: 50%;
+    transform:translateX(-50%
     bottom: 210px;
     z-index: .9;
-    animation: car-jump .9999s linear infinite ;
+   
 }
+.driver img{
+    animation: car-jump .9999s linear infinite ; 
