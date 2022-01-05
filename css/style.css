@@ -104,7 +104,7 @@ box-sizing: border-box;
     width: 80px;
     position: absolute;
     left: 50%;
-    transform:translateX(-50%
+    transform:translateX(-50%);
     bottom: 210px;
     z-index: .9;
    
